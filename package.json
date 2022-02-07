@@ -11,6 +11,10 @@
     "url": "git+https://github.com/SurfinBeard/frontend-project-lvl1.git"
   },
   "author": "",
+  "bin": {
+	  "brain-games": "bin/brain-games.js"
+  },
+  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SurfinBeard/frontend-project-lvl1/issues"
