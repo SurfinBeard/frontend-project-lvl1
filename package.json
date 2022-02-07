@@ -12,12 +12,16 @@
   },
   "author": "",
   "bin": {
-	  "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SurfinBeard/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/SurfinBeard/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/SurfinBeard/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
 }
